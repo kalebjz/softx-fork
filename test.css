@@ -620,7 +620,7 @@ html.theme-light .container-YkUktl {
 #app-mount .guilds-2JjMmN {
   width: var(--guilds-width);
   border-right: 1px solid var(--border);
-  background: var(--bg-primary);
+  background: red;
 }
 #app-mount .guilds-2JjMmN .scroller-3X7KbA {
   background: transparent;
