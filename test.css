@@ -620,7 +620,7 @@ html.theme-light .container-YkUktl {
 #app-mount .guilds-2JjMmN {
   width: var(--guilds-width);
   border-right: 1px solid var(--border);
-  background: red;
+  background: hsl(0 0% 10% / .82);
 }
 #app-mount .guilds-2JjMmN .scroller-3X7KbA {
   background: transparent;
@@ -1674,7 +1674,7 @@ body .footer-GXWBBp,
   max-width: var(--members-width);
 }
 #app-mount .container-2o3qEW {
-  background: var(--bg-primary);
+  background: hsl(0 0% 10% / .82);
 }
 #app-mount .members-3WRCEx {
   background: transparent;
