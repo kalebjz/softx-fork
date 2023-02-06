@@ -260,7 +260,7 @@ html.theme-light .container-YkUktl {
 .list-1AJFv_,
 [class*=scrollerBase-],
 .container-2McqkF {
-  overflow: hidden overlay !important;
+  overflow: visible !important;
 }
 .members-3WRCEx::-webkit-scrollbar,
 .peopleList-2VBrVI::-webkit-scrollbar,
