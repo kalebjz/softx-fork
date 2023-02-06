@@ -1676,7 +1676,7 @@ body .footer-GXWBBp,
   max-width: var(--members-width);
 }
 #app-mount .container-2o3qEW {
-  background: hsl(0 0% 10% / .82);
+  background: hsl(0 0% 10% / .72);
 }
 #app-mount .members-3WRCEx {
   background: transparent;
@@ -1684,6 +1684,7 @@ body .footer-GXWBBp,
 }
 #app-mount .members-3WRCEx > div {
   background: transparent;
+  height: auto !important;
 }
 #app-mount .content-1jQy2l > .membersWrap-3NUR2t > .members-3WRCEx {
   background: var(--bg-primary);
